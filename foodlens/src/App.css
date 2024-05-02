@@ -1,0 +1,80 @@
+/* styles.css */
+.textColor{
+  font: 'Courier New';
+  color: #BFC0C0;
+} 
+
+.App{
+  height: 100vh;
+}
+
+.Sections{
+  min-height: 100%; 
+  height: 100%; 
+  padding: 0;
+  margin: 0;
+  background-color: #4F5D75;
+}
+.cameraStyle{
+  height: 400px;
+  width: 400px;
+}
+
+.bannerHeader{
+  background-color: #2D3142;
+  color: #BFC0C0;
+  font-size: 300%;
+  float: left;
+  width: 100%;
+  height: 75px;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.uploadButton{
+  background-color: #EF8354;
+  color: #BFC0C0;
+  height: 50px;
+  width: 200px;
+  border-radius: 15px;
+  margin-left: 2.5px;
+} 
+
+.captureButton{
+  background-color: #EF8354;
+  color: #BFC0C0;
+  height: 50px;
+  width: 200px;
+  border-radius: 15px;
+  margin-right: 2.5px;
+}  
+
+.homeButton{
+  background: none;
+  border: none;
+  padding-left: 2;
+  cursor: pointer;
+}
+
+.homeButton img{
+  width: 50px;
+  height: 50px;
+}
+
+
+ .center img{
+  height: 200px;
+  width: 400px;
+  border-radius: 45px;
+  padding-top: 10px;
+}
+
+.foodData{
+  background-color: #4F5D75;
+  outline-color: black;
+}
+
+.capturedImage {
+  height: 400px;
+  width: 400px;
+}
